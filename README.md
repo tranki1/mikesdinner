@@ -1,10 +1,10 @@
 # Burger Builder Application
 
 Burger Builder Application and the screenshot of application below:
-![Screenshot](./asset/screenshots/mobileVersion.png)
-![Screenshot](./asset/screenshots/mobileVersion2.png)
-![Screenshot](./asset/screenshots/desktopVersion.png)
-![Screenshot](./asset/screenshots/desktopVersion2.png)
+![Screenshot](./src/asset/screenshots/mobileVersion.png)
+![Screenshot](./src/asset/screenshots/mobileVersion2.png)
+![Screenshot](./src/asset/screenshots/desktopVersion.png)
+![Screenshot](./src/asset/screenshots/desktopVersion2.png)
 ## Version
 v0.1<a href="https://github.com/tranki1/mikesdinner/releases/tag/v0.1">Source code in master-react branch</a>.
 * Application is build wih ReactJS/ CSS Modules
