@@ -1,6 +1,6 @@
 import React from 'react';
 import classes from './NavigationItem.css';
-import Aux from '../../../../../hoc/Aux';
+import Aux from '../../../../../hoc/Aux/Aux';
 const navigationItem = (props) => {
     return (
         <Aux>
